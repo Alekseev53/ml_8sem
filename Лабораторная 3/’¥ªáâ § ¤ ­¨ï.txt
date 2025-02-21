@@ -1,0 +1,5 @@
+Построить модель для предсказания дождя на завтрашний день.
+
+Подробное описание полей представлено на сайте: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+
+Запись консультации доступна по ссылке: https://disk.yandex.ru/i/d0V0TQqmjPNAXA
