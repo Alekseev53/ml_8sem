@@ -1,0 +1,2 @@
+Необходимо построить модель для определения диабета. Подробное описание датасета доступно по ссылке.
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
